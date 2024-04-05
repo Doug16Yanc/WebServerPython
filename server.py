@@ -1,7 +1,7 @@
 import socket
 from threading import Thread
 
-host = '127.0.0.1' #Localhost (Dizem as boas e más línguas as coisas só funcionam corretamente aqui)
+host = '127.0.0.1' #Localhost (Dizem as boas e más línguas que as coisas só funcionam corretamente aqui)
 port = 8000     #Número da porta para acessar o servidor
 
 #Criamos o nosso socket para a camada de aplicação
