@@ -38,7 +38,7 @@ Observação : Também possível utilizar o [PyCharm](https://www.jetbrains.com/
 Abrindo-se o navegador e realizando a digitação do endereço local e da porta de acesso ao servidor, tem-se acesso à página HTML com o texto de vinte parágrafos e as cinco imagens. 
 Em busca por recursos não encontrados, há um código de status "404 Not Found".
 
-# Conclusão
+# Conclusão 💡
 
 Dito isso, pode-se concluir que o servidor foi desenvolvido, testado e validado exitosamente, fornecendo uma maior compreensão acerca do protocolo HTTP e requisição GET, além do
 padrão de organização do protocolo TCP.
