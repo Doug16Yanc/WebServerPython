@@ -24,7 +24,9 @@ De tal modo, o servidor executa e implementa:
 ### Linguagens 📖👨🏻‍💻
 
 [Python](https://www.python.org/doc/)
+
 [HTML](https://developer.mozilla.org/pt-BR/docs/learn/getting_started_with_the_web/html_basics)
+
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Ambiente(s) de desenvolvimento integrado 🖥️
