@@ -1,0 +1,57 @@
+/*Só para não deixar desorganizado o arquivo HTML*/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+:root{
+    --black : #333;
+    --light-color : #cdaa7c;
+    --box-shadow : 0.5rem 1.5rem rgba(0,0,0,.1);
+}
+*
+{
+    font-family : 'Roboto', sans-serif;
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border : none;
+    outline : none;
+    text-transform: none;
+    transition : all .2s linear;
+}
+
+hmtl
+{
+    width: 100%;
+    height: 100%;
+    font-size:  62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    background: grey;
+}
+header{
+    position : absolute;
+    top : 0;
+    left : 0;
+    right : 0;
+    background-color: rgb(10, 5, 56);
+    padding : 0.5rem 2%;
+    display : flex;
+    align-items : center;
+    justify-content: space-between;
+    box-shadow: var(--box-shadow);
+}
+header .navbar{
+    display: flex;
+    font-size: 20px;
+    margin-left: 5%;
+    color: #fff;
+}
+.images{
+    margin-top: 10%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+    max-width: 800px;
+    padding: 20px;
+}
